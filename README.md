@@ -1,8 +1,8 @@
 # Name Generator
 
 ## Usage:
-1.ol Run script from anywhere
-2.ol Get name pair from complete.txt
+1 .ol Run script from anywhere
+2 .ol Get name pair from complete.txt
 
 ## Dependencies:
 [morphy]

@@ -10,4 +10,4 @@
 
 
 [morphy]:https://pythonhosted.org/pymorphy/intro.html
-[grab]:http://grablib.org/ru/
+[grab]:http://grablib.org/ru

@@ -5,7 +5,7 @@
 2. Get name pair from complete.txt
 
 ## Dependencies:
-[morphy][pymorphy]
+[pymorphy][morphy]
 [grab][grab]
 
 

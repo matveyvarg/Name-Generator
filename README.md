@@ -5,9 +5,9 @@
 2. Get name pair from complete.txt
 
 ## Dependencies:
-+[pymorphy][morphy]
+* [pymorphy][morphy]
 
-+[grab][grab]
+* [grab][grab]
 
 
 [morphy]:https://pythonhosted.org/pymorphy/intro.html

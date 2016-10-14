@@ -1,12 +1,12 @@
 # Name Generator
 
 ## Usage:
-1. ol Run script from anywhere
-2. ol Get name pair from complete.txt
+1. Run script from anywhere
+2. Get name pair from complete.txt
 
 ## Dependencies:
-[morphy]
-[grab]
+[morphy][pymorphy]
+[grab][grab]
 
 
 [morphy]:https://pythonhosted.org/pymorphy/intro.html
